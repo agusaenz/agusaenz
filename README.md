@@ -13,7 +13,7 @@
 
 ## 📫 How to Reach Me
 
-- [LinkedIn]([https://www.linkedin.com/in/your-profile-link](https://www.linkedin.com/in/agust%C3%ADn-saenz-188928310))
+- [LinkedIn](https://www.linkedin.com/in/agust%C3%ADn-saenz-188928310)
 - [Email](mailto:agustinsaenzc@gmail.com)
 
 ## 🛠️ Tools and Technologies
