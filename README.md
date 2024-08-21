@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-👋 Hi! I'm Agustín Saenz, a Computer Engineering student at [FICH-UNL](http://fich.unl.edu.ar/) in Santa Fe, Argentina. I have a passion for technology, particularly in web development, networking, and cybersecurity.
+👋 Hi! I'm Agustín Saenz, a Computer Engineering student at [FICH-UNL](http://fich.unl.edu.ar/) in Santa Fe, Argentina. I have a passion for technology, particularly in data science, back-end web development, networking, and cybersecurity.
 
 ## 🚀 About Me
 
@@ -26,7 +26,7 @@
 
 ## 🌱 What I’m Learning
 
-I am currently diving deeper into networking and cybersecurity, focusing on securing web applications and improving back-end systems.
+I am currently diving deeper into data science, networking and cybersecurity, focusing on securing web applications and improving back-end systems.
 
 ## 🔭 Future Goals
 
