@@ -7,7 +7,7 @@
 - 🎓 **Currently Studying:** Computer Engineering at FICH-UNL, Santa Fe, Argentina.
 - 💼 **Current Position:** Full-Stack Developer at Instituto Becario (INAUBEPRO), Paraná, Entre Ríos, Argentina.
 - 💻 **Skills:** 
-  - **Languages:** C++, HTML, CSS, JavaScript, PHP
+  - **Languages:** C++, HTML, CSS, JavaScript, PHP, Python
   - **Databases:** MySQL
 - 🌐 **Interests:** Networking, Cybersecurity, Web Back-End Development
 
@@ -18,20 +18,11 @@
 
 ## 🛠️ Tools and Technologies
 
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, React
-- **Backend:** Node.js, Express, PHP
+- **Frontend:** Bootstrap, React
+- **Backend:** Node.js, Express
 - **Databases:** MySQL
-- **Version Control:** Git, GitHub, TortoiseSVN
-- **Other Tools:** XAMPP, phpMyAdmin
+- **Version Control:** Git, TortoiseSVN
 
 ## 🌱 What I’m Learning
 
 I am currently diving deeper into data science, networking and cybersecurity, focusing on securing web applications and improving back-end systems.
-
-## 🔭 Future Goals
-
-- Contribute to open-source projects
-- Develop robust and secure web applications
-- Explore new technologies and frameworks
-
-Thanks for stopping by! Feel free to explore my repositories and connect with me.
